@@ -14,7 +14,7 @@
  * permissions and limitations under the License.
  */
 package io.fabric8.quickstarts.camel.amq;
-
+/*
 import io.fabric8.arquillian.kubernetes.Session;
 import io.fabric8.kubernetes.api.model.*;
 import io.fabric8.kubernetes.client.KubernetesClient;
@@ -48,3 +48,4 @@ public class KubernetesIntegrationKT {
                 });
     }
 }
+*/
